@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, nextjs, express, tailwind**
 
-- 📫 How to reach me **pword988@gmail.com**
+- 📫 How to reach me **rachanon.intamee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
